@@ -100,3 +100,13 @@ different mechanism.
 **The Hub does not read the cheats.** A `.cht` is text RetroArch parses;
 nothing here checks that the codes work, that they match your dump, or that
 they are for the game the filename claims.
+
+---
+
+## Seen working
+
+This plugin installs into a local directory rather than a library backend, so it does not appear in the screenshots. The command transcripts in the showcase show it listing and installing real files, with sizes and hashes.
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install libretro-cheats`.
